@@ -1,0 +1,406 @@
+Level: 0
+m g g c 
+k x m w 
+m c x k 
+g c b k 
+
+Level: 1
+x w x k 
+c g c g 
+m c k m 
+g b m k 
+
+Level: 2
+m c x g 
+c b m k 
+g m x g 
+k c x k 
+
+Current level: 0 | Mario position: 0,3 | Mario power level: 0
+Mario collected a coin.
+Mario lives: 3 | Coins in wallet: 1 | Next move: LEFT
+m g g H 
+k x m w 
+m c x k 
+g c b k 
+
+Current level: 0 | Mario position: 0,2 | Mario power level: 0
+Mario fought a Goomba and won.
+Mario lives: 3 | Coins in wallet: 1 | Next move: RIGHT
+m g H x 
+k x m w 
+m c x k 
+g c b k 
+
+Current level: 0 | Mario position: 0,3 | Mario power level: 0
+The position is empty.
+Mario lives: 3 | Coins in wallet: 1 | Next move: DOWN
+m g x H 
+k x m w 
+m c x k 
+g c b k 
+
+Current level: 0 | Mario position: 1,3 | Mario power level: 0
+Mario warped.
+Mario lives: 3 | Coins in wallet: 1 | Next move: LEFT
+x w x k 
+H g c g 
+m c k m 
+g b m k 
+
+Current level: 1 | Mario position: 1,3 | Mario power level: 0
+Mario fought a Goomba and won.
+Mario lives: 3 | Coins in wallet: 1 | Next move: DOWN
+x w x k 
+c g c H 
+m c k m 
+g b m k 
+
+Current level: 1 | Mario position: 2,3 | Mario power level: 0
+Mario ate a mushroom.
+Mario lives: 3 | Coins in wallet: 1 | Next move: LEFT
+x w x k 
+c g c x 
+m c k H 
+g b m k 
+
+Current level: 1 | Mario position: 2,2 | Mario power level: 1
+Mario fought a Koopa and won.
+Mario lives: 3 | Coins in wallet: 1 | Next move: UP
+x w x k 
+c g c x 
+m c H x 
+g b m k 
+
+Current level: 1 | Mario position: 1,2 | Mario power level: 1
+Mario collected a coin.
+Mario lives: 3 | Coins in wallet: 2 | Next move: UP
+x w x k 
+c g H x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,2 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 2 | Next move: DOWN
+x w H k 
+c g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 1,2 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 2 | Next move: UP
+x w x k 
+c g H x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,2 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 2 | Next move: RIGHT
+x w H k 
+c g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,3 | Mario power level: 1
+Mario fought a Koopa and won.
+Mario lives: 3 | Coins in wallet: 2 | Next move: LEFT
+x w x H 
+c g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,2 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 2 | Next move: RIGHT
+x w H x 
+c g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,3 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 2 | Next move: RIGHT
+x w x H 
+c g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,0 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 2 | Next move: LEFT
+H w x x 
+c g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,3 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 2 | Next move: DOWN
+x w x H 
+c g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 1,3 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 2 | Next move: RIGHT
+x w x x 
+c g x H 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 1,0 | Mario power level: 1
+Mario collected a coin.
+Mario lives: 3 | Coins in wallet: 3 | Next move: UP
+x w x x 
+H g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,0 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 3 | Next move: LEFT
+H w x x 
+x g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,3 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 3 | Next move: RIGHT
+x w x H 
+x g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,0 | Mario power level: 1
+The position is empty.
+Mario lives: 3 | Coins in wallet: 3 | Next move: RIGHT
+H w x x 
+x g x x 
+m c x x 
+g b m k 
+
+Current level: 1 | Mario position: 0,1 | Mario power level: 1
+Mario warped.
+Mario lives: 3 | Coins in wallet: 3 | Next move: LEFT
+m c x g 
+c b m k 
+g m x g 
+H c x k 
+
+Current level: 2 | Mario position: 3,3 | Mario power level: 1
+Mario fought a Koopa and won.
+Mario lives: 3 | Coins in wallet: 3 | Next move: UP
+m c x g 
+c b m k 
+g m x g 
+k c x H 
+
+Current level: 2 | Mario position: 2,3 | Mario power level: 1
+Mario fought a Goomba and won.
+Mario lives: 3 | Coins in wallet: 3 | Next move: UP
+m c x g 
+c b m k 
+g m x H 
+k c x x 
+
+Current level: 2 | Mario position: 1,3 | Mario power level: 1
+Mario fought a Koopa and won.
+Mario lives: 4 | Coins in wallet: 3 | Next move: DOWN
+m c x g 
+c b m H 
+g m x x 
+k c x x 
+
+Current level: 2 | Mario position: 2,3 | Mario power level: 1
+The position is empty.
+Mario lives: 4 | Coins in wallet: 3 | Next move: UP
+m c x g 
+c b m x 
+g m x H 
+k c x x 
+
+Current level: 2 | Mario position: 1,3 | Mario power level: 1
+The position is empty.
+Mario lives: 4 | Coins in wallet: 3 | Next move: UP
+m c x g 
+c b m H 
+g m x x 
+k c x x 
+
+Current level: 2 | Mario position: 0,3 | Mario power level: 1
+Mario fought a Goomba and lost.
+Mario lives: 4 | Coins in wallet: 3 | Next move: UP
+m c x H 
+c b m x 
+g m x x 
+k c x x 
+
+Current level: 2 | Mario position: 3,3 | Mario power level: 0
+The position is empty.
+Mario lives: 4 | Coins in wallet: 3 | Next move: UP
+m c x g 
+c b m x 
+g m x x 
+k c x H 
+
+Current level: 2 | Mario position: 2,3 | Mario power level: 0
+The position is empty.
+Mario lives: 4 | Coins in wallet: 3 | Next move: LEFT
+m c x g 
+c b m x 
+g m x H 
+k c x x 
+
+Current level: 2 | Mario position: 2,2 | Mario power level: 0
+The position is empty.
+Mario lives: 4 | Coins in wallet: 3 | Next move: DOWN
+m c x g 
+c b m x 
+g m H x 
+k c x x 
+
+Current level: 2 | Mario position: 3,2 | Mario power level: 0
+The position is empty.
+Mario lives: 4 | Coins in wallet: 3 | Next move: LEFT
+m c x g 
+c b m x 
+g m x x 
+k c H x 
+
+Current level: 2 | Mario position: 3,1 | Mario power level: 0
+Mario collected a coin.
+Mario lives: 4 | Coins in wallet: 4 | Next move: RIGHT
+m c x g 
+c b m x 
+g m x x 
+k H x x 
+
+Current level: 2 | Mario position: 3,2 | Mario power level: 0
+The position is empty.
+Mario lives: 4 | Coins in wallet: 4 | Next move: LEFT
+m c x g 
+c b m x 
+g m x x 
+k x H x 
+
+Current level: 2 | Mario position: 3,1 | Mario power level: 0
+The position is empty.
+Mario lives: 4 | Coins in wallet: 4 | Next move: DOWN
+m c x g 
+c b m x 
+g m x x 
+k H x x 
+
+Current level: 2 | Mario position: 0,1 | Mario power level: 0
+Mario collected a coin.
+Mario lives: 4 | Coins in wallet: 5 | Next move: LEFT
+m H x g 
+c b m x 
+g m x x 
+k x x x 
+
+Current level: 2 | Mario position: 0,0 | Mario power level: 0
+Mario ate a mushroom.
+Mario lives: 4 | Coins in wallet: 5 | Next move: DOWN
+H x x g 
+c b m x 
+g m x x 
+k x x x 
+
+Current level: 2 | Mario position: 1,0 | Mario power level: 1
+Mario collected a coin.
+Mario lives: 4 | Coins in wallet: 6 | Next move: LEFT
+x x x g 
+H b m x 
+g m x x 
+k x x x 
+
+Current level: 2 | Mario position: 1,3 | Mario power level: 1
+The position is empty.
+Mario lives: 4 | Coins in wallet: 6 | Next move: DOWN
+x x x g 
+x b m H 
+g m x x 
+k x x x 
+
+Current level: 2 | Mario position: 2,3 | Mario power level: 1
+The position is empty.
+Mario lives: 4 | Coins in wallet: 6 | Next move: RIGHT
+x x x g 
+x b m x 
+g m x H 
+k x x x 
+
+Current level: 2 | Mario position: 2,0 | Mario power level: 1
+Mario fought a Goomba and lost.
+Mario lives: 4 | Coins in wallet: 6 | Next move: DOWN
+x x x g 
+x b m x 
+H m x x 
+k x x x 
+
+Current level: 2 | Mario position: 3,0 | Mario power level: 0
+Mario fought a Koopa and lost.
+Mario lives: 3 | Coins in wallet: 6 | Next move: STAY PUT
+x x x g 
+x b m x 
+g m x x 
+H x x x 
+
+Current level: 2 | Mario position: 3,0 | Mario power level: 0
+Mario fought a Koopa and lost.
+Mario lives: 2 | Coins in wallet: 6 | Next move: STAY PUT
+x x x g 
+x b m x 
+g m x x 
+H x x x 
+
+Current level: 2 | Mario position: 3,0 | Mario power level: 0
+Mario fought a Koopa and won.
+Mario lives: 2 | Coins in wallet: 6 | Next move: DOWN
+x x x g 
+x b m x 
+g m x x 
+H x x x 
+
+Current level: 2 | Mario position: 0,0 | Mario power level: 0
+The position is empty.
+Mario lives: 2 | Coins in wallet: 6 | Next move: DOWN
+H x x g 
+x b m x 
+g m x x 
+x x x x 
+
+Current level: 2 | Mario position: 1,0 | Mario power level: 0
+The position is empty.
+Mario lives: 2 | Coins in wallet: 6 | Next move: UP
+x x x g 
+H b m x 
+g m x x 
+x x x x 
+
+Current level: 2 | Mario position: 0,0 | Mario power level: 0
+The position is empty.
+Mario lives: 2 | Coins in wallet: 6 | Next move: DOWN
+H x x g 
+x b m x 
+g m x x 
+x x x x 
+
+Current level: 2 | Mario position: 1,0 | Mario power level: 0
+The position is empty.
+Mario lives: 2 | Coins in wallet: 6 | Next move: RIGHT
+x x x g 
+H b m x 
+g m x x 
+x x x x 
+
+Current level: 2 | Mario position: 1,1 | Mario power level: 0
+Mario fought the level boss and won.
+Mario saved the princess, the game is won!
+Mario lives: 2 | Coins in wallet: 6 | Next move: LEFT
