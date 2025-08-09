@@ -39,3 +39,11 @@ Mario Lives: 3 | Coins in wallet: 1 | Next move: DOWN
 Current level: 0 | Mario position: 2,2 | Mario power level: 0
 Mario fought a Koopa and lost.
 Mario Lives: 2 | Coins in wallet: 1 | Next move: STAY PUT
+```
+
+---
+
+## 📦 How to Run
+- Clone repo: git clone https://github.com/amperry01/Not-so-Super-Mario-Bros.git
+- Compile code: g++ *.cpp -o mario
+- Run game: ./mario input.txt log.txt
