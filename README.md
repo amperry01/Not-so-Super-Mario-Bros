@@ -3,8 +3,6 @@
 A C++ text-based adventure game where Mario navigates through multiple worlds, collects coins, gains power-ups, and battles bosses — all in the terminal.  
 Originally developed for Chapman University's CPSC 350: Data Structures course, this project demonstrates **object-oriented design**, **game logic**, and **file I/O** in C++.
 
----
-
 ## Features
 - Multi-level gameplay with increasing difficulty
 - Coin collection and wallet tracking
@@ -13,14 +11,10 @@ Originally developed for Chapman University's CPSC 350: Data Structures course, 
 - Player health, score tracking, and win/loss conditions
 - Modular architecture for maintainability
 
----
-
 ## Tech Stack
 - **Language:** C++
 - **Paradigms:** Object-Oriented Programming (OOP)
 - **Data Handling:** File I/O for input parsing and gameplay logging
-
----
 
 ## Sample Gameplay Output
 ```text
@@ -40,8 +34,6 @@ Current level: 0 | Mario position: 2,2 | Mario power level: 0
 Mario fought a Koopa and lost.
 Mario Lives: 2 | Coins in wallet: 1 | Next move: STAY PUT
 ```
-
----
 
 ## How to Run
 - Clone repo: git clone https://github.com/amperry01/Not-so-Super-Mario-Bros.git
