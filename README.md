@@ -1,11 +1,11 @@
-# 🎮 Not so Super Mario Bros.
+# Not so Super Mario Bros.
 
 A C++ text-based adventure game where Mario navigates through multiple worlds, collects coins, gains power-ups, and battles bosses — all in the terminal.  
 Originally developed for Chapman University's CPSC 350: Data Structures course, this project demonstrates **object-oriented design**, **game logic**, and **file I/O** in C++.
 
 ---
 
-## 🚀 Features
+## Features
 - Multi-level gameplay with increasing difficulty
 - Coin collection and wallet tracking
 - Power-up system to boost player stats
@@ -15,14 +15,14 @@ Originally developed for Chapman University's CPSC 350: Data Structures course, 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language:** C++
 - **Paradigms:** Object-Oriented Programming (OOP)
 - **Data Handling:** File I/O for input parsing and gameplay logging
 
 ---
 
-## 📷 Sample Gameplay Output
+## Sample Gameplay Output
 ```text
 Level: 0
 g m b c
@@ -43,7 +43,7 @@ Mario Lives: 2 | Coins in wallet: 1 | Next move: STAY PUT
 
 ---
 
-## 📦 How to Run
+## How to Run
 - Clone repo: git clone https://github.com/amperry01/Not-so-Super-Mario-Bros.git
 - Compile code: g++ *.cpp -o mario
 - Run game: ./mario input.txt log.txt
